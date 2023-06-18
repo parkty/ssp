@@ -3,8 +3,6 @@ package ssp.javasp.sp.fundamental.web;
 import org.eclipse.jetty.server.*;
 import org.eclipse.jetty.servlet.ServletHandler;
 
-import javaasp.sp.fundamental.web.HelloWorldServlet;
-
 public class MyServletServer {
 
 	public static void main(String[] args) throws Exception {
